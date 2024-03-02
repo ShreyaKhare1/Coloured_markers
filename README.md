@@ -4,7 +4,7 @@ This project demonstrates the styling of colored markers using HTML and CSS.
 
 ## Setup
 1. Clone this repository to your local machine.
-2. Open the `index.html` file in your web browser.
+2. Open the `marker.html` file in your web browser.
 
 ## Usage
 This project showcases three markers styled with different colors using CSS gradients and box shadows.
